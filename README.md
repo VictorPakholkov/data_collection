@@ -1,2 +1,13 @@
-# data_collection
-Repository for storing home assignments for "Collection and Marking-Up of Data for ML" course at ITMO University 
+# Модуль 2. Практическое задание
+
+## Данные и общая идея
+
+## ТЗ для разметки датасета
+
+## Проверка на адекватность и метрика согласованности
+
+## Обратная связь по разметке 
+
+## Анализ результатов
+
+## Вывод
