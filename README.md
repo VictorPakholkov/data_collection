@@ -42,36 +42,49 @@
 *classic -* любые указания на то, что фильм занимает положение классической киноенты в истории кино, как прямые, так и непрямые. Оценка фильма как одного из лучших в своем жанре, чего-то высшей категории своего вида, достойного подражания, большое достижение в истории кино, образцовая лента своего времени/жанра.
 
 Примеры:
+
 "The over-used term "classic movie" really comes into its own here!"
+
 "One of Hitchcock's greatest masterpieces, "Rear Window" is a deep and entertaining classic with many strengths, and a little bit of everything"
+
 "This is the film that put the science in "science fiction"..."
 
 
 *inspiring -* любое указание на то, что фильм вызывает мощную эмоциональную или ментальную симуляцию, наполняет храбростью и силой для свершений, вдохновляет, дарует моральные и духовные впечатления.
 
 Примеры:
+
 "Usual man's-best-friend story, spiced with an intriguing yet inspiring detail..."
+
 ""On the Waterfront" is one of the great American films, not only because it bravely spreads a strong light on the violation of justice, but because it is a powerful piece of cinema, which push forward a classic study of man's responsibility to his fellow man... "
 
 
 *deep -* любое указание на то, что фильм имеет глубокий смысл, поднимает важные, философские темы, дает пищу для размышления, затрагивает вечные/классичиские истины
 
 Примеры:
+
 "Kubrick also presents the viewer with a lot of food for thought about what it means to be human, and where the human race is going..."
+
 "A Deep & Entertaining Classic"
+
 "The story of corruption in politics and the greatness of the men who resist it is timeless and would not be lost on the politicians in Washington today."
+
 
 *revolutionary -* любые указания на то, что фильм стал чем-то новым/откровением в своем жанре/в свое время, перезапустил индустрию/жанр, стал основоположником направления/течения, был первым в своем роде
 
 Примеры:
+
 "The revolutionary methods of Kurosawa are still effective and on-par with the cinema of today..."
+
 "Yet Reservoir Dogs is still extraordinarily fresh and vibrant, raising the bar for crime movies in the modern era."
 
 
 *nostalgic -* любые указания на то, что фильм воспринимается положительно из-за чувства ностальгии, из-за положительных эмоций, вызванных в детстве/раньше, теплый чувств, связанных с возрастом фильма и просмотром в былые времена
 
 Примеры:
+
 "It seems i maybe in the minority for my feelings towards this film, but im not sugar coating my opinion like it seems a few people are doing due to nostalgia."
+
 "There's humor, there's action, there's nostalgia, there's the perfect capture of being a child..."
 
 
