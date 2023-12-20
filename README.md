@@ -68,9 +68,16 @@ Fig 1. Структура данных
 Обзорный анализ данных был произведен для картинок и текста.
 
 Для картинок был проведен анализ распределения размерности, для того, чтобы удостовериться в результатах предобработки.
+![image](https://github.com/VictorPakholkov/data_collection/assets/56613496/8dbc2533-3414-45e2-8015-d1d55cd3a7ab)
+
 Кроме того, был проведен анализ pixel intensity, для определения возможных необходимых дополнительных шгов нормализации изображений.
+![image](https://github.com/VictorPakholkov/data_collection/assets/56613496/8076b5cc-a781-4d10-acd8-7e5481b96272)
 
 Для текстовых данных был произведен анализ наиболее частотных слов, а также анализ длинн текстовых ревью.
+![image](https://github.com/VictorPakholkov/data_collection/assets/56613496/7266a4ef-8cff-4c5a-9e38-fad5a8ff2715)
+
+![image](https://github.com/VictorPakholkov/data_collection/assets/56613496/1aa0919b-10ad-48d5-a896-7c0fedc17ca3)
+
 
 
 ## Последующие возможные варинты связки мультимодальных данных:
